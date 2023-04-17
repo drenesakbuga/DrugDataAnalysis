@@ -1,6 +1,4 @@
-# DEMO FOR VANADRO
-
-# In this page, I generate a sample dataset on R within the context of pharmacy 
+# In this project, I generate a sample dataset on R within the context of pharmacy 
 # to demonstrate how to analyze utilizing various statistical techniques.
 
 # First of all, we need to load the necessary libraries:
